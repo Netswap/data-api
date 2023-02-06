@@ -1,0 +1,44 @@
+[
+    {
+        "date": "6th Dec, 2022",
+        "snapshotAtBlock": 4145906,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            100,
+            10000
+        ],
+        "distributionTxs": [
+            "0x54b53d4e8e01594b694fc71c73b9adf6d1ba3ce3b0d1302f6654ae894e500fe3",
+            "0x6c2dd5f41f6a52e2d38e10058a3d93f03a74d45f9c7f0a90665adfb9367a5e99"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/1qBKj7qU0Li6vnaxJmq5-lh4j2mUMOAVBb7yZ5LB-rz8/edit#gid=0"
+    },
+    {
+        "date": "6th Feb, 2023",
+        "snapshotAtBlock": 4681555,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            150,
+            13500
+        ],
+        "distributionTxs": [
+            "0x59707ac749a4b179e9ac7e3fb7942dcd06a694986e06fb393e89a04547b11f0c",
+            "0x01a9b82d9e1f9dcd59bc78103407730ad4793b389a1219f977879652940d4a88"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/1uBedyr90PvZIViLpax8VhDIQubU87Q8u/edit#gid=640324795"
+    }
+]
