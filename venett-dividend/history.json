@@ -1,0 +1,170 @@
+[
+    {
+        "date": "6th Dec, 2022",
+        "snapshotAtBlock": 4145906,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            100,
+            10000
+        ],
+        "distributionTxs": [
+            "0x54b53d4e8e01594b694fc71c73b9adf6d1ba3ce3b0d1302f6654ae894e500fe3",
+            "0x6c2dd5f41f6a52e2d38e10058a3d93f03a74d45f9c7f0a90665adfb9367a5e99"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR7gd7QCyU9LIa75dUECED1SPDtI98_4ayC9NlVddnY3BWd7TsUMElRcRClcp6MvEoQ1kGa3UTCYCWc/pubhtml"
+    },
+    {
+        "date": "6th Feb, 2023",
+        "snapshotAtBlock": 4681555,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            150,
+            13500
+        ],
+        "distributionTxs": [
+            "0x59707ac749a4b179e9ac7e3fb7942dcd06a694986e06fb393e89a04547b11f0c",
+            "0x01a9b82d9e1f9dcd59bc78103407730ad4793b389a1219f977879652940d4a88"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTiNlDIwDjhFollQt9XV8SB_1Cukom5Mh2oZslTCx3_wrA6XQBV5IeBQgMl4ivWEg/pubhtml"
+    },
+    {
+        "date": "6th Apr, 2023",
+        "snapshotAtBlock": 5267893,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            120,
+            15000
+        ],
+        "distributionTxs": [
+            "0xa629d4837cee27c8e6ece555effba6b8b55872940aa44ebd0ac210b03a810a11",
+            "0x26473ad03c2154c8d463c2119f71b934c4032bbacf5ff340d1080eab2265c20f"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTNkOIIPj1Hy3_WLmu2RG4CjFoJxkSLqIUaq-u-ohA3nqhxN3m1n31SWiu11WXl-mPttKHiU2Vv58JR/pubhtml"
+    },
+    {
+        "date": "6th Jun, 2023",
+        "snapshotAtBlock": 6067935,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            100,
+            15000
+        ],
+        "distributionTxs": [
+            "0x19737b0812d0c706abf06b45981ec7d856299a9fe0105548df33730983a44fe3",
+            "0xbf6d429745d61b5a6481ed844bfd6fda9eb09f15352a336e2e9093b2c0ad448b"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMwe1pgiaKybSKrm8L0aCEo82szoMkXMOrjtNR_KbF52bat02GhwG0y5t4wbUnkN5J2Jx6X2SZCw_O/pubhtml"
+    },
+    {
+        "date": "6th Aug, 2023",
+        "snapshotAtBlock": 7758901,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            60,
+            15000
+        ],
+        "distributionTxs": [
+            "0x57245cf5bd4c05ba1bf15b51f8af941419e1552987f968ef1dce699cb1dae821",
+            "0x4a7e7c3e8381beedeff8985e15bef6eb9e92d8ef094fa1475913d31b34fb9542"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRSTPAUejddb762OcACDbV31E_0DcAwJ1yFbJn1CfKl1EEZxvjqVmgVfNc6pILN5asKC4L3SRZ8DPq0/pubhtml"
+    },
+    {
+        "date": "6th Oct, 2023",
+        "snapshotAtBlock": 8867606,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            60,
+            15000
+        ],
+        "distributionTxs": [
+            "0x938a12c6e185b734d26ba22c40ce0aa2e47eb710b979f9e80b1b0efc85d0c418",
+            "0xf2a84ce5b803ad697e7f16cc4df69be6f14d13ecec637b2cdd8785eb0cb5e760"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqGeB-83LAwAyvpLXpXyvfuG8kHzchWTPBewi9O_axtEH3QDWLVjBP4rvZM9MwpU5c1ckPImKzXMgu/pubhtml"
+    },
+    {
+        "date": "6th Dec, 2023",
+        "snapshotAtBlock": 9601590,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            60,
+            15000
+        ],
+        "distributionTxs": [
+            "0xb43ff06a3d3c5fc191e7de43d641d17221d21031965d8b2dae2957be3496066b",
+            "0x35344f4a8c99da25022271c794ae600be03430898b681dcceea00c6f65ace19d"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/10_QlWA40R-OGMGZ9jVtjxwbzy-FQjUotsqmXkDDlts4/edit?usp=sharing"
+    },
+    {
+        "date": "6th Feb, 2024",
+        "snapshotAtBlock": 13137380,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            80,
+            10000
+        ],
+        "distributionTxs": [
+            "0x2b92bf7194d4d7a5a7e5939b6fcd41ccfc1ead98f5e02807e6e3053b2abf38da",
+            "0xfc4c0ed1eea16688ac81bb95df11d907a4876f7a6637b2c8da12109f9a87a4a1"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRNpLSojjAoJHLothTqh0TcmjBkkZlh2aiGkFE6f-Hz4Jj8LUt53S-HQ-lSB7-ZLowLhTtA8HxRfEXI/pubhtml"
+    }
+]
