@@ -166,5 +166,26 @@
             "0xfc4c0ed1eea16688ac81bb95df11d907a4876f7a6637b2c8da12109f9a87a4a1"
         ],
         "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRNpLSojjAoJHLothTqh0TcmjBkkZlh2aiGkFE6f-Hz4Jj8LUt53S-HQ-lSB7-ZLowLhTtA8HxRfEXI/pubhtml"
+    },
+    {
+        "date": "6th Apr, 2024",
+        "snapshotAtBlock": 16253330,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            80,
+            10000
+        ],
+        "distributionTxs": [
+            "0x561cae81858dfbd99d98d171028e5d94314425346a0a66e88d8ee37d1f275c6d",
+            "0xce5ed2e730e4af2c1faf91ada8c346e2cef485863283d14baa9cbfd38e53ef71"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTg3qfFkPJWm-KzDeK-xQc3_gkSJ014Chd1R7nG7684x3EZvy8Zb5ZfYzgWkmjJBWSwUzOYQbMZupz0/pubhtml"
     }
 ]
