@@ -144,7 +144,7 @@
             "0xb43ff06a3d3c5fc191e7de43d641d17221d21031965d8b2dae2957be3496066b",
             "0x35344f4a8c99da25022271c794ae600be03430898b681dcceea00c6f65ace19d"
         ],
-        "breakdown": "https://docs.google.com/spreadsheets/d/10_QlWA40R-OGMGZ9jVtjxwbzy-FQjUotsqmXkDDlts4/edit?usp=sharing"
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vStBy-dp2FHEt7x6gR0r1hF8NhluIQuk3ovzGqpAnOI-6E6eXIZl5KEhUNdOoChQibM3cDKWrKPuoRe/pubhtml"
     },
     {
         "date": "6th Feb, 2024",
@@ -187,5 +187,26 @@
             "0xce5ed2e730e4af2c1faf91ada8c346e2cef485863283d14baa9cbfd38e53ef71"
         ],
         "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTg3qfFkPJWm-KzDeK-xQc3_gkSJ014Chd1R7nG7684x3EZvy8Zb5ZfYzgWkmjJBWSwUzOYQbMZupz0/pubhtml"
+    },
+    {
+        "date": "6th Jun, 2024",
+        "snapshotAtBlock": 17275206,
+        "rewardTokenAddress": [
+            "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278"
+        ],
+        "rewardTokenSymbol": [
+            "Metis",
+            "NETT"
+        ],
+        "rewardTokenAmount": [
+            60,
+            15000
+        ],
+        "distributionTxs": [
+            "0xf03a240a6ecd13d986ed7ff114afe25db8e65d87289a6d0a358504d1c5b2f2b8",
+            "0x8cc5eb7772ed3ff50bf8961f55da504c47c5a6e26022a8dc563c47479844e8ed"
+        ],
+        "breakdown": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTcd-qxA0KIAfd9xc2MgaV8ScFaiw4mT7pxa0P-yUgYlb06d_8GDwUwiwjTqMwFpn9CdnzEo9lTMM3t/pubhtml"
     }
 ]
